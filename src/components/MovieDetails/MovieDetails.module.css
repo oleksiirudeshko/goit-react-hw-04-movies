@@ -1,0 +1,22 @@
+.cover {
+  display: flex;
+  justify-content: space-between;
+  width: 600px;
+  text-align: left;
+}
+
+.movieImg {
+  margin-right: 20px;
+  width: 300px;
+}
+
+.aditianalUl {
+  flex-wrap: wrap;
+  width: 50px;
+}
+
+.goBackBtn {
+  margin-bottom: 15px;
+  border-radius: 5px;
+  background-color: #fff;
+}
